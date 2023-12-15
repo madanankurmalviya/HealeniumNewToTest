@@ -13,6 +13,7 @@ import java.net.MalformedURLException;
 import java.util.HashMap;
 
 
+
 public class BaseTest {
     static protected WebDriver driver;
     static protected HashMap<PagesType, FrameworkPage> pages;
