@@ -1,4 +1,4 @@
-version: "3.8"
+originversion: "3.8"
 services:
 
   postgres-db:
